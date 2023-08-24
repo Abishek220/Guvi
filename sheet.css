@@ -1,0 +1,44 @@
+.container{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 10px;
+  background-color:rgb(255, 255, 255);
+  width:400px;
+  border-radius:10px;
+  box-shadow: 0 0 10px #cc00ff(0, 0, 0, 0.2);
+
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: SpringGreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body{
+  background-image: url(https://img.freepik.com/free-vector/learn-from-home-banner-with-education-icons_1361-2406.jpg?w=20000);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+.form-container {
+background-color: white;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.268);
+}
